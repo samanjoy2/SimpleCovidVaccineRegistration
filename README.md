@@ -29,7 +29,7 @@ This project has a fulll fledged Covid Vaccination Management System. There are 
 ## Used
 
 - PHP, HTML, CSS
-- SQL
+- Database: MySQL
 
 ## License
 
