@@ -33,4 +33,9 @@ This project has a full fledged Vaccination System Management. Here there are se
 
 ## License
 
-SimpleCovidVaccineRegistration is © Saman Sarker Joy.
+SimpleCovidVaccineRegistration is
+- © Saman Sarker Joy 
+- © Niloy Farhan 
+- © Naima Tahsin Nodi 
+- © Tafseer Binte Mannan
+- © Samiur Rahman
