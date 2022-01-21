@@ -26,6 +26,10 @@ This project has a full fledged Vaccination System Management. Here there are se
 	- An Agent will be assigend to a single Centre, and he/she only be able to edit that centres user-infos.
 	- Have access to a search button, where agents can find their centers users and change it.
 
+## Used
+
+- PHP, HTML, CSS
+- SQL
 
 ## License
 
